@@ -8,6 +8,9 @@ a {
    background-color: black; 
    color:whitesmoke; 
 }
+.heading {
+    width:60%;
+}
 .header {
    background-color:#000; 
    color:#fff; 
