@@ -31,7 +31,7 @@ a {
     font-weight: bold;
 }
 .dropdown {
-    float: left;
+    float:left;
     overflow: hidden;
   }
   .dropdown .dropbtn {
