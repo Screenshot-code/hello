@@ -31,7 +31,7 @@ a {
     font-weight: bold;
 }
 .dropdown {
-    float:right;
+    float:left;
     overflow: hidden;
   }
   .dropdown .dropbtn {
@@ -41,6 +41,7 @@ a {
     color: white;
     padding: 19px;
     padding-right: 86px;
+    padding-left:86px;
     background-color:inherit;
     font-weight: bold;
     font-family: inherit;
