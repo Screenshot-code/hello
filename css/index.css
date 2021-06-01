@@ -23,13 +23,6 @@ a {
    border: 1px solid transparent;
 }
 
-.header-link {
-    float:right; 
-    height: 50px; 
-    padding: 15px 86px; 
-    font-size: 18px;
-    font-weight: bold;
-}
 .dropdown {
     float:left;
     overflow: hidden;
