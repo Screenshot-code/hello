@@ -5,7 +5,7 @@ body {
    }
 a { 
    text-decoration: none; 
-   background-color: black; 
+    
    color:whitesmoke; 
 }
 .logo {
@@ -129,6 +129,25 @@ a {
     font-weight: bold; 
     text-align: center;
     font-size: 30px;   
+}
+.btn {
+  background-color: black;
+  text-align: center;
+  font-size:x-large;
+  font-weight: bold;
+  width:150px;
+  text-decoration: none;
+  display:inline-block;
+  margin:0 10px;
+  padding: 18px;
+  color:white;
+  border:1px solid gray;
+  border-radius: 20px; 
+  cursor:pointer;
+}
+.btn:hover {
+  background-color:white;
+  color :black;
 }
 h2 {
     font-size: larger;
