@@ -122,7 +122,13 @@ a {
     height:auto;
     margin:auto;
     float:left;
+    transition: 1s;
 }
+.thubnail:hover {
+ background-size: 150%;   
+ backgorund-positon: center;   
+}
+    
 .caption {
     color:#000; 
     padding:0px 10px 10px; 
